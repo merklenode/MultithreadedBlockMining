@@ -1,0 +1,3 @@
+/home/merklenode/Desktop/desk2.0/multithreaded_block_mining/build/CMakeFiles/MultithreadedBlockMining.dir
+/home/merklenode/Desktop/desk2.0/multithreaded_block_mining/build/CMakeFiles/edit_cache.dir
+/home/merklenode/Desktop/desk2.0/multithreaded_block_mining/build/CMakeFiles/rebuild_cache.dir
